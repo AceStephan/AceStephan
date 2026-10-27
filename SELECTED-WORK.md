@@ -52,6 +52,22 @@ A public-safe view of the engineering problems I contribute to at Ace. These sum
 
 **Engineering focus:** HTML/CSS, frontend interaction, API contracts, error handling, and observable results.
 
+## Content operations and growth tooling
+
+**The problem:** Marketing execution depends on organized content, usable creator-facing views, and reliable paths from social accounts to destination pages.
+
+**My contributions:** Content-organization workflow design, creator content-view repairs, reusable link-page workflows, and account-health verification tooling. These are contributions to the software and workflows supporting content delivery, not claims of owning every creative or campaign.
+
+**Engineering focus:** Workflow design, content organization, interface contracts, source verification, and reusable operational tools.
+
+## Device setup and team enablement
+
+**The problem:** Repeated setup work is easy to perform inconsistently and difficult to hand off without clear procedures.
+
+**My contributions:** Reusable, attended iPhone setup guidance, app requirements and verification, and documented credential-management workflows. These complement my work on repo-aware assistants and team tooling.
+
+**Engineering focus:** Repeatability, clear instructions, verification, and safe handling of account information.
+
 ---
 
 I keep company code, private links, client details, operational metrics, and implementation-sensitive architecture out of this portfolio. The activity snapshot on my profile reports only my aggregate GitHub activity, with its date and scope.

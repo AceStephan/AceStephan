@@ -6,40 +6,31 @@
   <a href="SELECTED-WORK.md"><img src="https://img.shields.io/badge/EXPLORE-Selected%20Work-0891B2?style=for-the-badge" alt="Explore selected work" /></a>
 </p>
 
-<h1 align="center">Hey, I’m Stephan.</h1>
-<p align="center"><strong>I turn marketing operations into software people can actually use.</strong></p>
+<p align="center"><strong>I build the software behind creator growth—from content workflows to web and iOS products.</strong></p>
 
-I work on automation and product engineering at **[Ace](https://ace.inc)**, a creator marketing and growth agency. My work spans the systems that get content out, the reporting that makes performance understandable, and the web and mobile experiences that connect creators with their team.
+At **[Ace](https://ace.inc)**, I work across product engineering, marketing automation, and data reliability. My contributions connect creator and team experiences with the reporting, integrations, cloud jobs, and developer tools behind them. **Codex and Claude Code** are part of how I build, investigate, test, and verify that work.
 
-I work across **Python, TypeScript, React, and Swift**, with **Codex and Claude Code** as part of my development workflow. That includes building features, investigating broken integrations, recovering missing data, refining interfaces, and verifying what actually shipped.
-
-```yaml
-focus:       creator growth, marketing execution, and dependable software
-build:       web apps • iOS experiences • integrations • cloud automation
-care_about:  accurate data • usable interfaces • maintainable workflows
-approach:    understand → build → test → verify
-```
-
-## What I build
-
-| | Area | My work |
-| :---: | :--- | :--- |
-| 🌐 | **Creator & team portals** | Dashboards, shared team tools, account views, calendars, and consistent data across different roles. |
-| 📱 | **iOS experiences** | Creator app improvements, interactive charts, navigation, notifications, and release preparation. |
-| 📈 | **Marketing intelligence** | Social reporting, audience trends, posting evidence, freshness checks, and recovery when sources are incomplete. |
-| ⚙️ | **Cloud automation** | Scheduled reporting, background workers, source integrations, and migrations away from desktop-dependent jobs. |
-| 🧠 | **AI development workflows** | Reusable skills, repo-aware assistants, verification loops, and practical workflows for Codex and Claude Code. |
-| 🎨 | **Web & interface design** | Landing pages, responsive layouts, brand details, chart interactions, and clearer loading and error states. |
-| 🔔 | **Notifications & integrations** | Event-driven updates, messaging failure handling, delivery evidence, and provider integrations. |
-| 🛠️ | **Reliability & developer tooling** | Data contracts, cache correctness, performance fixes, release checks, and repeatable device setup workflows. |
-
-**[Explore selected work →](SELECTED-WORK.md)**
-
-## Real work, mostly in private repositories
+## Engineering in practice
 
 <p align="center"><img src="assets/activity.svg" width="100%" alt="Verified October 27, 2026: 1,896 attributed default-branch commits across two private repositories; 1,285 pull requests opened and 1,164 merged across the organization." /></p>
 
-These are a **GitHub API snapshot from October 27, 2026**, not live counters. Commit totals cover two private repositories; PR totals cover my organization activity. Commits and PRs are different measures and are not added together. The public contribution graph may show less because of visibility settings and GitHub’s counting rules.
+These are a **GitHub API snapshot from October 27, 2026**, not live counters. Commit totals cover two private repositories; PR totals cover my organization activity. Commits and PRs are different measures and are not added together. Private contribution counts are enabled on my profile. The contribution graph combines eligible activity and has a different scope from these figures.
+
+## What I build
+
+| Area | Selected contributions |
+| :--- | :--- |
+| 🌐 **Creator & team portals** | Role-aware dashboards, shared tools, account views, calendars, and consistent data. |
+| 📱 **iOS experiences** | Interactive charts, navigation, notifications, update flows, and release preparation. |
+| 📈 **Marketing intelligence** | Social reporting, audience trends, posting evidence, and missing-data recovery. |
+| 🎬 **Content & growth workflows** | Content organization, creator content views, link-page workflows, and account-health tooling. |
+| ⚙️ **Cloud automation** | Scheduled reporting, background workers, integrations, and desktop-to-cloud migration work. |
+| 🧠 **Codex & Claude workflows** | Reusable skills, repo-aware assistants, verification loops, and troubleshooting guidance. |
+| 🎨 **Web & interface design** | Landing pages, responsive layouts, brand details, charts, and clear loading and error states. |
+| 🔔 **Notifications & integrations** | Event-driven updates, delivery verification, provider integrations, and failure handling. |
+| 🛠️ **Reliability & team tooling** | Data contracts, cache and performance fixes, release checks, and repeatable device setup. |
+
+**[Explore selected work →](SELECTED-WORK.md)**
 
 ## Tools I work with
 
