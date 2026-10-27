@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="400" viewBox="0 0 1280 400" role="img" aria-labelledby="title desc">
+<title id="title">Stephan — Systems that move marketing forward.</title>
+<desc id="desc">Marketing automation, data, AI workflows, and web experiences, on navy with mint geometric accents.</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0b1220"/><stop offset="1" stop-color="#14283b"/></linearGradient><pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse"><path d="M48 0H0V48" fill="none" stroke="#b6f4df" stroke-opacity=".045"/></pattern></defs>
+<rect width="1280" height="400" rx="24" fill="url(#bg)"/><rect width="1280" height="400" rx="24" fill="url(#grid)"/>
+<rect x="56" y="60" width="42" height="5" rx="2.5" fill="#79ebbe"/>
+<text x="56" y="110" font-family="Arial, Helvetica, sans-serif" font-size="19" letter-spacing="5" fill="#a5c6ce">STEPHAN / ACESTEPHAN</text>
+<text x="56" y="186" font-family="Arial, Helvetica, sans-serif" font-size="54" font-weight="700" fill="#f3f8fc">Systems that move</text>
+<text x="56" y="251" font-family="Arial, Helvetica, sans-serif" font-size="54" font-weight="700" fill="#79ebbe">marketing forward.</text>
+<text x="58" y="326" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#b9cbd8">AUTOMATION / DATA / AI WORKFLOWS / WEB</text>
+<g fill="none" stroke="#79ebbe" stroke-width="2"><rect x="975" y="88" width="188" height="188" rx="30" opacity=".18"/><rect x="1007" y="120" width="124" height="124" rx="22" opacity=".36"/><path d="M1008 307h74v-63m-13-124V67h83" opacity=".6"/></g>
+<rect x="1046" y="159" width="46" height="46" rx="12" fill="#79ebbe"/><circle cx="1008" cy="307" r="6" fill="#79ebbe"/><circle cx="1152" cy="67" r="6" fill="#79ebbe"/>
+</svg>
